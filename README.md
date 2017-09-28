@@ -2,7 +2,8 @@
 A flexible forward simulation framework to model a variety of study populations and sampling approaches to estimate the amount of relatedness researchers should expect in a genetic cohort
 
 
-=========================================================================================================================================
+=================================================================================================================
+
 Copyright (c) 2017 Regeneron Genetics Center LLC
  
 License:
@@ -24,7 +25,8 @@ Note that this license may not give you all of the permissions necessary for you
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, AND LICENSOR EXPRESSLY DISCLAIMS ALL SUCH REPRESENTATION AND WARRANTIES.
  
 IN NO EVENT SHALL THE COPYRIGHT HOLDER OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ADAPTATIONS OR THE USE IN THE SOFTWARE OR ADAPTATIONS.
-=========================================================================================================================================
+
+===================================================================================================================
  
 Adjust the provided pops.txt file or create your own in the same format. Adjsut the config_file.txt or create your own in same parameter names and in the same format. We recommend copying the provided file to a new file and making the edits there.
 
