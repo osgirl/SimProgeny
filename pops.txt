@@ -1,0 +1,6 @@
+population	size	ascertainment_order
+All	475000	1
+#pop2 400000 2
+#pop3 200000 3
+#pop4 100000 3
+#pop5 250000 4
